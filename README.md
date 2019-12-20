@@ -4,7 +4,7 @@
  - 3.界面搭建
       - 开始界面+脚本
       
-      ![image](./image/start.png)
+      ![image](./image/Start.png)
       
       - 游戏界面+随机场景
       
