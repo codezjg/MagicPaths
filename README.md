@@ -4,11 +4,11 @@
  - 3.界面搭建
       - 开始界面+脚本
       
-      ![image](./image/Start.png)
+      ![image](https://github.com/Wheeeeeeeeels/MagicPaths/blob/master/image/Start.PNG)
       
       - 游戏界面+随机场景
       
-        ![image](./image/捕获.png)
+        ![image](https://github.com/Wheeeeeeeeels/MagicPaths/blob/master/image/捕获.PNG)
  - 4. 创建容器管理器
  - 5. 跳跃平台的生成
  - 6. 玩家生成
